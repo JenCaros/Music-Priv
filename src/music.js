@@ -52,7 +52,7 @@ let allMusic = [
         name: "Tu con el - Frankie Ruiz",
         artist: "Frankie Ruiz",
         img: "Tu con el",
-        src: "tu con el"
+        src: "tuconel"
     },
     {
         name: "Heat Waves - Dreamland",
